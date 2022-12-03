@@ -9,6 +9,10 @@ html{
   scroll-behavior: smooth;
 }
 
+body{
+  font-weight: 700;
+}
+
 /* Awal navigation */
 
 .nav {
@@ -26,7 +30,7 @@ html{
   color: grey;
   padding: 40px;
   text-decoration: none;
-  font-family: sans-serif;
+  font-family:"Quicksand", sans-serif;
 }
 
 nav a:hover {
@@ -327,6 +331,7 @@ footer {
   border-radius: 2px;
   font-family: "Quicksand", sans-serif;
   color: white;
+  font-weight: 800;
   padding-left: 35%;
 }
 
